@@ -1,4 +1,4 @@
-# Whiteboard
+# Janga Abhishek Whiteboard
 ==========
 
 Collaborative drawing on a persistent HTML5 canvas.
